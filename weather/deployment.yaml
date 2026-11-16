@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: weather
-        image: subash0769/weather-app:1.0
+        image: subash0769/weather-app:e50d2f7
         resources:
           requests:
             memory: "128Mi" 
